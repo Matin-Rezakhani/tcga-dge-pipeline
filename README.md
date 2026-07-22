@@ -1,6 +1,6 @@
 # TCGA Differential Gene Expression (DGE) Pipeline
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21188431.svg)](https://doi.org/10.5281/zenodo.21188431)
 
 ## Overview
 A complete, automated, and reproducible R pipeline for performing Differential Gene Expression (DGE) analysis using RNA-Seq data from The Cancer Genome Atlas (TCGA). This script handles everything from raw data acquisition to publication-ready data visualization.
